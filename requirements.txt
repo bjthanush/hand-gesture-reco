@@ -1,7 +1,6 @@
 flask==2.3.2
 transformers==4.40.1
 torch==2.5.1
-tensorflow
 numpy
 opencv-python
 gunicorn
